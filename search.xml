@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[新生]]></title>
+    <url>%2F2018%2F09%2F15%2Fnew-1%2F</url>
+    <content type="text"><![CDATA[如果你手里抓着一只鸟，那么你应该放手让它飞，它飞了之后呢还有可能飞回来，但是你如果一直这么攥着它，它就死了 ​​​​]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>金句</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F09%2F15%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+</search>
