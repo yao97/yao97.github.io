@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-17T13:38:17.556Z</updated>
+  <updated>2018-10-09T12:56:40.885Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,66 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Navicat Premium 12安装</title>
+    <link href="http://yoursite.com/2018/10/09/Navicat-Premium-12%E5%AE%89%E8%A3%85/"/>
+    <id>http://yoursite.com/2018/10/09/Navicat-Premium-12安装/</id>
+    <published>2018-10-09T10:39:47.000Z</published>
+    <updated>2018-10-09T12:56:40.885Z</updated>
+    
+    <content type="html"><![CDATA[<p>Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Amazon Redshift、Microsoft Azure、Oracle Cloud、MongoDB Atlas、阿里云、腾讯云和华为云等云数据库兼容。你可以快速轻松地创建、管理和维护数据库。</p><h3 id="一、下载"><a href="#一、下载" class="headerlink" title="一、下载"></a>一、下载</h3><p><a href="https://www.navicat.com.cn/" target="_blank" rel="noopener">Navicat Premium 12</a>是一套数据库开发管理工具，支持连接 MySQL、Oracle等多种数据库，可以快速轻松地创建、管理和维护数据库。</p><blockquote><p>Navicat Premium 12简体中文下载：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/001.png" alt="下载"></p><h3 id="二、安装"><a href="#二、安装" class="headerlink" title="二、安装"></a>二、安装</h3><blockquote><p>双击安装，点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/002.png" alt="安装文件"></p><p><img src="/2018/10/09/Navicat-Premium-12安装/003.png" alt="开始安装"></p><blockquote><p>同意协议，点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/004.png" alt="同意协议"></p><blockquote><p>选择安装位置（可默认），点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/005.png" alt="选择安装位置"></p><blockquote><p>创建开始菜单文件夹，点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/006.png" alt="开始菜单文件夹"></p><blockquote><p>创建桌面快捷方式，点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/007.png" alt="是否创建快捷方式"></p><blockquote><p>准备安装，点击下一步：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/008.png" alt="准备安装"></p><blockquote><p>正在安装中，等待安装完成：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/009.png" alt="正在安装"></p><blockquote><p>安装完成，点击完成：<br><img src="/2018/10/09/Navicat-Premium-12安装/010.png" alt="安装成功"></p></blockquote><h3 id="三、激活"><a href="#三、激活" class="headerlink" title="三、激活"></a>三、激活</h3><blockquote><p>适用于Navicat Premium 12.1.x和12.0.x版本：<br>蓝奏云下载：<a href="https://www.lanzous.com/i1jw6oh" target="_blank" rel="noopener">Navicat Premium 12.1.x注册机</a></p></blockquote><hr><blockquote><p>确保已关闭Navicat Premium。无需断网，无需将注册机放到Navicat Premium安装目录下。以管理员身份运行此注册机：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/011.png" alt="运行注册机"></p><p><img src="/2018/10/09/Navicat-Premium-12安装/012.png" alt="运行注册机"></p><blockquote><p>打开注册机后，1) Patch勾选Backup、Host和Navicat v12，然后点击Patch按钮：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/013.png" alt="默认勾选"></p><blockquote><p>找到Navicat Premium 12安装路径下的navicat.exe，选中并点击打开：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/014.png" alt="navicat.exe"></p><blockquote><p>此时出现如下弹窗，提示<code>navicat.exe - x64 -&gt; Cracked.</code>，提示已破解（别高兴，还没结束）。若提示<code>libcc.dll</code>或<code>navicat.exe</code>出错，检查是否未关闭Navicat Premium，或到安装目录下将<code>libcc.dll</code>和<code>navicat.exe</code>删除，并将<code>libcc.dll.BAK</code>或<code>navicat.exe.BAK</code>去掉<code>.BAK</code>后缀名。否则卸载已安装的Navicat Premium并清理文件残留和注册表残留：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/015.png" alt="已破解"></p><blockquote><p>2) License, Product and Language确保License为Enterprise，Products为Premium，Languages为Simplified Chinese（简体中文，其它语言版本请自选）；<br>3) Resale License确保Resale Version为Site license；<br>4) Keygen / Offline Activation中Your Name和Your Organization可以任意填写或者默认，然后点击Generate，将自动生成Serial Keygen（即注册码）：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/016.png" alt="生成注册码"></p><blockquote><p>打开Navicat Premium 12，点击菜单栏的帮助，选择注册，在注册窗口键处填入上一步生成的Serial Keygen（即注册码），然后点击激活：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/017.png" alt="填入注册码"></p><blockquote><p>点击手动激活：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/018.png" alt="手动激活"></p><blockquote><p>将Navicat手动激活窗口的请求码框中内容复制到注册机Request Code框中，点击Activation Code下面的Generate按钮：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/019.png" alt="请求码"></p><blockquote><p>将注册机Activation Code处生成的激活码内容复制到Navicat手动激活窗口的激活码框中（或点击Activation Code处下面的Copy按钮），然后点击激活按钮：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/020.png" alt="激活码"></p><blockquote><p>提示Navicat现已激活：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/021.png" alt="激活成功"></p><blockquote><p>Navicat Premium 12.1.8.0激活成功：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/022.png" alt="Navicat Premium 12.1.8.0激活成功"></p><h3 id="四、基本使用"><a href="#四、基本使用" class="headerlink" title="四、基本使用"></a>四、基本使用</h3><blockquote><p>以Navicat Premium 12连接MySQL数据库为例，依次选择连接 &gt; MySQL：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/023.png" alt="连接本地服务器"></p><p><img src="/2018/10/09/Navicat-Premium-12安装/024.png" alt="使用XAMPP搭建本地服务器"></p><blockquote><p>设置相关的连接信息，点击测试连接，测试是否能连接上MySQL数据库。若弹出连接成功窗口，则表示连接MySQL数据库成功，点击确定：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/025.png" alt="新建连接"></p><blockquote><p>右键刚刚建立的连接TEST，可以打开连接、关闭连接和创建数据库等等操作，实现对MySQL数据库管理：</p></blockquote><p><img src="/2018/10/09/Navicat-Premium-12安装/026.png" alt="打开连接"></p><blockquote><p>参考链接：<br>简书：<a href="https://www.jianshu.com/p/5f693b4c9468" target="_blank" rel="noopener">Navicat Premium 12.1.8.0安装与激活</a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库。它与 Amazon RDS、Amazon Aurora、Ama
+      
+    
+    </summary>
+    
+      <category term="教程" scheme="http://yoursite.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="软件" scheme="http://yoursite.com/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+      <category term="Mysql" scheme="http://yoursite.com/tags/Mysql/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电影《最爱》</title>
+    <link href="http://yoursite.com/2018/09/22/%E7%94%B5%E5%BD%B1%E3%80%8A%E6%9C%80%E7%88%B1%E3%80%8B/"/>
+    <id>http://yoursite.com/2018/09/22/电影《最爱》/</id>
+    <published>2018-09-22T09:32:46.000Z</published>
+    <updated>2018-10-09T12:54:06.329Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://img3.doubanio.com/view/photo/l/public/p983458781.webp" alt="最爱剧照"></p><h2 id="最爱的剧情简介-："><a href="#最爱的剧情简介-：" class="headerlink" title="最爱的剧情简介 ："></a><em>最爱的剧情简介</em> ：</h2><p>20世纪90年代，中国一个偏僻落后的山村。在利益驱动下村民不惜卖血赚钱，却也将世纪绝症艾滋感染上身，生命以秒计算。老柱柱（陶泽如 饰）的长子赵齐全（濮存晰 饰），天良丧尽，他作为“血头”成为村里最先富起来的人，为此牺牲村民乃至家人也不悔改。心怀愧疚的老柱柱将染病并受到歧视的村民集中到废弃的小学统一照顾，一同前往的还有他的次子赵得意（郭富城 饰）。无人垂怜的死亡孤岛，病者在生命最后一刻还在心中贪欲的驱使下钩心斗角，令人全然看不到半点希望。在此期间，得意和堂兄弟小海（蔡国庆 饰）的媳妇琴琴（章子怡 饰）惺惺相惜，到互生爱意。本就饱受歧视的二人，此刻更成为背叛了全世界的恶人<br>　　生命一点点流逝，他们依旧全力奔跑，追逐渺小易逝的可悲幸福…… <a href="https://movie.douban.com/help/movie#t0-qs" target="_blank" rel="noopener">©豆瓣</a></p><p>导演: <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>编剧: <a href="https://movie.douban.com/celebrity/1339388/" target="_blank" rel="noopener">阎连科</a> / <a href="https://movie.douban.com/celebrity/1366232/" target="_blank" rel="noopener">杨薇薇</a> / <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>主演: <a href="https://movie.douban.com/celebrity/1041014/" target="_blank" rel="noopener">章子怡</a> / <a href="https://movie.douban.com/celebrity/1041390/" target="_blank" rel="noopener">郭富城</a> / <a href="https://movie.douban.com/celebrity/1274855/" target="_blank" rel="noopener">濮存昕</a> / <a href="https://movie.douban.com/celebrity/1020487/" target="_blank" rel="noopener">蒋雯丽</a> / <a href="https://movie.douban.com/celebrity/1314747/" target="_blank" rel="noopener">蔡国庆</a> / <a href="https://movie.douban.com/celebrity/1274388/" target="_blank" rel="noopener">王宝强</a> / <a href="https://movie.douban.com/celebrity/1314753/" target="_blank" rel="noopener">李丹阳</a> / <a href="https://movie.douban.com/celebrity/1039767/" target="_blank" rel="noopener">陶泽如</a> / <a href="https://movie.douban.com/celebrity/1274237/" target="_blank" rel="noopener">孙海英</a> / <a href="https://movie.douban.com/celebrity/1314754/" target="_blank" rel="noopener">李建华</a> / <a href="https://movie.douban.com/celebrity/1314752/" target="_blank" rel="noopener">胡泽涛</a> / <a href="https://movie.douban.com/subject_search?search_text=%E9%83%AD%E6%B0%B8%E7%AB%A0" target="_blank" rel="noopener">郭永章</a> / <a href="https://movie.douban.com/celebrity/1021999/" target="_blank" rel="noopener">姜文</a> / <a href="https://movie.douban.com/celebrity/1005319/" target="_blank" rel="noopener">陆川</a> / <a href="https://movie.douban.com/celebrity/1274255/" target="_blank" rel="noopener">冯小刚</a><br>类型: 剧情 / 爱情<br>制片国家/地区: 中国大陆 / 香港<br>语言: 汉语普通话<br>上映日期: 2011-05-10(中国大陆) / 2011-06-16(香港)<br>片长: 101分钟(中国大陆) / 150分钟(完整版)<br>又名: 魔术外传 / 魔术时代 / 罪爱 / Love For Life / Till Death Do Us Part / Life Is A Miracle</p><p>磁力链接：<a href="magnet:?xt=urn:btih:4793DF59643B841640802D0916ABE329F9252343" target="_blank" rel="noopener">最爱</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/view/photo/l/public/p983458781.webp&quot; alt=&quot;最爱剧照&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;最爱的剧情简介-：&quot;&gt;&lt;a href=&quot;#最爱的剧情简介-：&quot; class=&quot;h
+      
+    
+    </summary>
+    
+      <category term="Share" scheme="http://yoursite.com/categories/Share/"/>
+    
+    
+      <category term="电影" scheme="http://yoursite.com/tags/%E7%94%B5%E5%BD%B1/"/>
+    
+      <category term="收藏" scheme="http://yoursite.com/tags/%E6%94%B6%E8%97%8F/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《只要你这么做，想爱上任何人都可以》</title>
     <link href="http://yoursite.com/2018/09/17/love/"/>
     <id>http://yoursite.com/2018/09/17/love/</id>
     <published>2018-09-17T12:19:25.000Z</published>
-    <updated>2018-09-17T13:38:17.556Z</updated>
+    <updated>2018-09-22T09:28:03.711Z</updated>
     
     <content type="html"><![CDATA[<p style="text-indent:2em">《纽约时报》前两周有一篇情感专栏文章《只要你这么做，想爱上任何人都可以》(To Fall in Love With Anyone, Do This) 高居其网站当周点击量首位。这篇文章的作者是温哥华的一位大学教授，她讲述自己和刚刚认识的一个陌生男子，仿照美国心理学家 Arthur Aron 在1997年做过的一个实验，迅速培养出感情坠入情网。</p><p style="text-indent:2em">这篇文章并非严谨的学术论文，作者的经历也带着半开玩笑的性质，但是她文中提到的这个“爱上陌生人”的实验却引起了很多人的兴趣，因此文章不但在社交媒体上形成刷屏之势，也被大量媒体加以报道。</p><p style="text-indent:2em">我找到了 Arthur Aron 博士当年的论文原文，粗粗读了一遍，发现的确很有意思。这篇论文的标题叫《人际亲密感的产生：实验程序及部分初步发现》(The Experimental Generation of Interpersonal Closeness: A Procedure and Some Preliminary Findings)，参与实验的陌生人两两分组坐在一起，只花了45分钟，彼此问了36个神奇的问题，就快速对对方产生了好感和亲密感。</p><p style="text-indent:2em">实验的结果很有意思。有30%的人在聊完这些问题后，立即表示自己和同组实验者之间的关系已经变得比他们人生中其他任何一段关系还要深（难道这不是说明这些人的人生有多么悲哀吗！）。而在隔了一段时间之后，有37%的人在上课时坐在了一起，35%的人已经开始在约会了（这个学校好乱！顺便说一下，是纽约州立大学石溪分校，有Stony Brook的同学吗）。还有一对在六个月后结了婚，他们邀请了所有人去参加他们的婚礼。</p><p style="text-indent:2em">这个实验基于这样一个前提，即人们之间要发展出亲密的关系，关键是双方要持续地、不断深入地、互相对等地坦白自己的人格 (sustained, escalating, reciprocal, personalistic self-disclosure)。同时进行的对比组的实验还发现，两人之间是否能够变得更加亲密，和他们对重要事物的观点看法是否一样并没有关系（也就是说三观不一致也可以相爱）；和双方是否期待能够互相喜欢也没有关系。<br></p><p>所以简单地说，这个实验的结论就是，人们可以快速喜欢上一个陌生人，只要他们彼此之间足够坦诚、互相分享。</p><p>让我们来看看这36个神奇的问题是什么，如果你闲得无聊也许可以在网上找个陌生人陪你做一下，不过面对面一起做效果肯定更好。</p><p>这些问题分为三组，按问题的深入程度依次递进，完成每组问题各需15分钟。问题的感觉有点类似普鲁斯特问卷。</p><p>第一组问题:</p><ol><li>假如可以选择世界上任何人，你希望邀请谁共进晚餐？</li><li>你希望成名吗？在哪一方面？</li><li>拨打电话前，你会先练习要说的话吗？为什么？</li><li>对你来说，怎样才算是“完美”的一天？</li><li>上一次唱歌给自己听是什么时候？唱歌给别人听又是什么时候呢？</li><li>假如你能够活到90岁，并且你可以选择让你的心智或身体在后60年一直停留在30岁，你会选择哪一个？</li><li>关于未来你可能怎么死，你有自己的秘密预感吗？</li><li>列举3个你和对方共同拥有的特质。</li><li>你的人生中最感恩的事情是什么？</li><li>假如可以改变你成长过程中的任何事，你希望有哪些改变？</li><li>用4分钟的时间，尽可能详细地向对方讲述你的人生故事。</li><li>假如明天早上起床后能获得任何一种能力或特质，你希望是什么？</li></ol><p>第二组问题</p><ol><li>假如有颗水晶球能告诉你关于自己、人生或未来的一切真相，你想知道什么？</li><li>有什么事想做很久了？还没去做的原因是？</li><li>你人生最大的成就是什么？</li><li>友情中你最重视哪一个部份？</li><li>你最珍贵的回忆是什么？</li><li>你最糟糕的回忆是什么？</li><li>如果你知道自己将在一年内突然死去，你会改变自己目前的生活方式吗？为什么？</li><li>友情对你而言意味着什么？</li><li>爱和感情在你生命里扮演什么样的角色？</li><li>轮流分享你认为对方拥有的比较好的性格特点。各自提5点。</li><li>你的家庭关系亲密温暖吗？你是否觉得自己的童年比大部分人快乐？</li><li>你与母亲的关系如何？</li></ol><p>第三组问题</p><ol><li>说出3个含有“我们”并且符合实际情况的句子，比如“我们现在都在这个房间里”。</li><li>完成这个句子：“我希望可以跟某个人分享——”。</li><li>如果你要成为对方的密友，有什么事是他或她需要知道的？</li><li>告诉对方你喜欢他或她的什么地方（回答此题必须非常诚实，要说出你可能不会对刚认识的人说的事）。</li><li>和对方分享你人生中尴尬的时刻。</li><li>上次在别人面前哭是什么时候？自己哭又是什么时候？</li><li>告诉对方，你现在喜欢他或她什么地方。</li><li>有什么事是绝对不能开玩笑的？</li><li>如果你今天晚上就会死掉，而且无法与任何人联系，你最遗憾还没有告诉别人什么事？为什么还没说呢？</li><li>你的房子起火了，你所有的东西都在里面。在救出所爱的人和宠物后，你还有时间可以安全地抢救出最后一件东西。你会拿什么？为什么？</li><li>在你所有家人当中，谁的死对你的打击会最大？为什么？</li><li>分享你人生中的一个问题，问对方遇到这样的问题会怎么做。同时也请对方告诉你，在他或她看来，</li></ol><p><img src="https://wx3.sinaimg.cn/large/ebb5ee3dly1fsq5eck49oj23k01s04qq.jpg" alt="blockchain"></p>]]></content>
     
@@ -34,10 +89,10 @@
     
     </summary>
     
-      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+      <category term="情感" scheme="http://yoursite.com/categories/%E6%83%85%E6%84%9F/"/>
     
     
-      <category term="有趣" scheme="http://yoursite.com/tags/%E6%9C%89%E8%B6%A3/"/>
+      <category term="摘抄" scheme="http://yoursite.com/tags/%E6%91%98%E6%8A%84/"/>
     
       <category term="情感" scheme="http://yoursite.com/tags/%E6%83%85%E6%84%9F/"/>
     
