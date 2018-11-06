@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-09T12:56:40.885Z</updated>
+  <updated>2018-11-06T12:27:59.566Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Next 主题下添加网易云音乐外链播放器</title>
+    <link href="http://yoursite.com/2018/11/06/next%E4%B8%BB%E9%A2%98%E4%B8%8B%E6%B7%BB%E5%8A%A0%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E5%A4%96%E9%93%BE%E6%92%AD%E6%94%BE%E5%99%A8/"/>
+    <id>http://yoursite.com/2018/11/06/next主题下添加网易云音乐外链播放器/</id>
+    <published>2018-11-06T11:33:28.000Z</published>
+    <updated>2018-11-06T12:27:59.566Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="添加网易云外联播放器"><a href="#添加网易云外联播放器" class="headerlink" title="添加网易云外联播放器"></a>添加网易云外联播放器</h3><p>1.进入网页版的网易云音乐找到自己需要添加的歌曲<br><a href="https://i.loli.net/2018/11/06/5be182a0d3599.png" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/11/06/5be182a0d3599.png" alt="Snipaste_2018-11-06_20-00-48.png"></a><br>2.选取一个歌单点击生成外链播放器（注意有版权的不能生成外链播放器）<br><a href="https://i.loli.net/2018/11/06/5be17f97045d2.png" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/11/06/5be17f97045d2.png" alt="Snipaste_2018-11-06_09-01-25.png"></a><br>3.这里可以设置外链播放器的类型，尺寸等参数，设置完成过后复制下面的外链接<br><a href="https://i.loli.net/2018/11/06/5be17f9be52c6.png" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/11/06/5be17f9be52c6.png" alt="Snipaste_2018-11-06_09-01-47.png"></a><br>4.在根目录下的/theme/next/layout/_macro/sidebar.swig文件（侧边栏布局文件）中选择你要添加播放器的位置，然后粘贴外链接<br><a href="https://i.loli.net/2018/11/06/5be183b35dd1f.png" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/11/06/5be183b35dd1f.png" alt="Snipaste_2018-11-06_20-05-40.png"></a><br>5.最终效果<br><a href="https://i.loli.net/2018/11/06/5be184904aec0.png" target="_blank" rel="noopener"><img src="https://i.loli.net/2018/11/06/5be184904aec0.png" alt="Snipaste_2018-11-06_20-09-32.png"></a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;添加网易云外联播放器&quot;&gt;&lt;a href=&quot;#添加网易云外联播放器&quot; class=&quot;headerlink&quot; title=&quot;添加网易云外联播放器&quot;&gt;&lt;/a&gt;添加网易云外联播放器&lt;/h3&gt;&lt;p&gt;1.进入网页版的网易云音乐找到自己需要添加的歌曲&lt;br&gt;&lt;a href=&quot;h
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="http://yoursite.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+    
+      <category term="next" scheme="http://yoursite.com/tags/next/"/>
+    
+  </entry>
   
   <entry>
     <title>Navicat Premium 12安装</title>
@@ -44,20 +71,20 @@
   </entry>
   
   <entry>
-    <title>电影《最爱》</title>
-    <link href="http://yoursite.com/2018/09/22/%E7%94%B5%E5%BD%B1%E3%80%8A%E6%9C%80%E7%88%B1%E3%80%8B/"/>
-    <id>http://yoursite.com/2018/09/22/电影《最爱》/</id>
+    <title>电影-最爱</title>
+    <link href="http://yoursite.com/2018/09/22/%E7%94%B5%E5%BD%B1-%E6%9C%80%E7%88%B1/"/>
+    <id>http://yoursite.com/2018/09/22/电影-最爱/</id>
     <published>2018-09-22T09:32:46.000Z</published>
-    <updated>2018-10-09T12:54:06.329Z</updated>
+    <updated>2018-10-10T14:35:37.017Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://img3.doubanio.com/view/photo/l/public/p983458781.webp" alt="最爱剧照"></p><h2 id="最爱的剧情简介-："><a href="#最爱的剧情简介-：" class="headerlink" title="最爱的剧情简介 ："></a><em>最爱的剧情简介</em> ：</h2><p>20世纪90年代，中国一个偏僻落后的山村。在利益驱动下村民不惜卖血赚钱，却也将世纪绝症艾滋感染上身，生命以秒计算。老柱柱（陶泽如 饰）的长子赵齐全（濮存晰 饰），天良丧尽，他作为“血头”成为村里最先富起来的人，为此牺牲村民乃至家人也不悔改。心怀愧疚的老柱柱将染病并受到歧视的村民集中到废弃的小学统一照顾，一同前往的还有他的次子赵得意（郭富城 饰）。无人垂怜的死亡孤岛，病者在生命最后一刻还在心中贪欲的驱使下钩心斗角，令人全然看不到半点希望。在此期间，得意和堂兄弟小海（蔡国庆 饰）的媳妇琴琴（章子怡 饰）惺惺相惜，到互生爱意。本就饱受歧视的二人，此刻更成为背叛了全世界的恶人<br>　　生命一点点流逝，他们依旧全力奔跑，追逐渺小易逝的可悲幸福…… <a href="https://movie.douban.com/help/movie#t0-qs" target="_blank" rel="noopener">©豆瓣</a></p><p>导演: <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>编剧: <a href="https://movie.douban.com/celebrity/1339388/" target="_blank" rel="noopener">阎连科</a> / <a href="https://movie.douban.com/celebrity/1366232/" target="_blank" rel="noopener">杨薇薇</a> / <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>主演: <a href="https://movie.douban.com/celebrity/1041014/" target="_blank" rel="noopener">章子怡</a> / <a href="https://movie.douban.com/celebrity/1041390/" target="_blank" rel="noopener">郭富城</a> / <a href="https://movie.douban.com/celebrity/1274855/" target="_blank" rel="noopener">濮存昕</a> / <a href="https://movie.douban.com/celebrity/1020487/" target="_blank" rel="noopener">蒋雯丽</a> / <a href="https://movie.douban.com/celebrity/1314747/" target="_blank" rel="noopener">蔡国庆</a> / <a href="https://movie.douban.com/celebrity/1274388/" target="_blank" rel="noopener">王宝强</a> / <a href="https://movie.douban.com/celebrity/1314753/" target="_blank" rel="noopener">李丹阳</a> / <a href="https://movie.douban.com/celebrity/1039767/" target="_blank" rel="noopener">陶泽如</a> / <a href="https://movie.douban.com/celebrity/1274237/" target="_blank" rel="noopener">孙海英</a> / <a href="https://movie.douban.com/celebrity/1314754/" target="_blank" rel="noopener">李建华</a> / <a href="https://movie.douban.com/celebrity/1314752/" target="_blank" rel="noopener">胡泽涛</a> / <a href="https://movie.douban.com/subject_search?search_text=%E9%83%AD%E6%B0%B8%E7%AB%A0" target="_blank" rel="noopener">郭永章</a> / <a href="https://movie.douban.com/celebrity/1021999/" target="_blank" rel="noopener">姜文</a> / <a href="https://movie.douban.com/celebrity/1005319/" target="_blank" rel="noopener">陆川</a> / <a href="https://movie.douban.com/celebrity/1274255/" target="_blank" rel="noopener">冯小刚</a><br>类型: 剧情 / 爱情<br>制片国家/地区: 中国大陆 / 香港<br>语言: 汉语普通话<br>上映日期: 2011-05-10(中国大陆) / 2011-06-16(香港)<br>片长: 101分钟(中国大陆) / 150分钟(完整版)<br>又名: 魔术外传 / 魔术时代 / 罪爱 / Love For Life / Till Death Do Us Part / Life Is A Miracle</p><p>磁力链接：<a href="magnet:?xt=urn:btih:4793DF59643B841640802D0916ABE329F9252343" target="_blank" rel="noopener">最爱</a></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="/2018/09/22/电影-最爱/最爱剧照.jpg" alt="最爱剧照"></p><h2 id="最爱的剧情简介-："><a href="#最爱的剧情简介-：" class="headerlink" title="最爱的剧情简介 ："></a><em>最爱的剧情简介</em> ：</h2><p>20世纪90年代，中国一个偏僻落后的山村。在利益驱动下村民不惜卖血赚钱，却也将世纪绝症艾滋感染上身，生命以秒计算。老柱柱（陶泽如 饰）的长子赵齐全（濮存晰 饰），天良丧尽，他作为“血头”成为村里最先富起来的人，为此牺牲村民乃至家人也不悔改。心怀愧疚的老柱柱将染病并受到歧视的村民集中到废弃的小学统一照顾，一同前往的还有他的次子赵得意（郭富城 饰）。无人垂怜的死亡孤岛，病者在生命最后一刻还在心中贪欲的驱使下钩心斗角，令人全然看不到半点希望。在此期间，得意和堂兄弟小海（蔡国庆 饰）的媳妇琴琴（章子怡 饰）惺惺相惜，到互生爱意。本就饱受歧视的二人，此刻更成为背叛了全世界的恶人<br>　　生命一点点流逝，他们依旧全力奔跑，追逐渺小易逝的可悲幸福…… <a href="https://movie.douban.com/help/movie#t0-qs" target="_blank" rel="noopener">©豆瓣</a></p><p>导演: <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>编剧: <a href="https://movie.douban.com/celebrity/1339388/" target="_blank" rel="noopener">阎连科</a> / <a href="https://movie.douban.com/celebrity/1366232/" target="_blank" rel="noopener">杨薇薇</a> / <a href="https://movie.douban.com/celebrity/1037747/" target="_blank" rel="noopener">顾长卫</a><br>主演: <a href="https://movie.douban.com/celebrity/1041014/" target="_blank" rel="noopener">章子怡</a> / <a href="https://movie.douban.com/celebrity/1041390/" target="_blank" rel="noopener">郭富城</a> / <a href="https://movie.douban.com/celebrity/1274855/" target="_blank" rel="noopener">濮存昕</a> / <a href="https://movie.douban.com/celebrity/1020487/" target="_blank" rel="noopener">蒋雯丽</a> / <a href="https://movie.douban.com/celebrity/1314747/" target="_blank" rel="noopener">蔡国庆</a> / <a href="https://movie.douban.com/celebrity/1274388/" target="_blank" rel="noopener">王宝强</a> / <a href="https://movie.douban.com/celebrity/1314753/" target="_blank" rel="noopener">李丹阳</a> / <a href="https://movie.douban.com/celebrity/1039767/" target="_blank" rel="noopener">陶泽如</a> / <a href="https://movie.douban.com/celebrity/1274237/" target="_blank" rel="noopener">孙海英</a> / <a href="https://movie.douban.com/celebrity/1314754/" target="_blank" rel="noopener">李建华</a> / <a href="https://movie.douban.com/celebrity/1314752/" target="_blank" rel="noopener">胡泽涛</a> / <a href="https://movie.douban.com/subject_search?search_text=%E9%83%AD%E6%B0%B8%E7%AB%A0" target="_blank" rel="noopener">郭永章</a> / <a href="https://movie.douban.com/celebrity/1021999/" target="_blank" rel="noopener">姜文</a> / <a href="https://movie.douban.com/celebrity/1005319/" target="_blank" rel="noopener">陆川</a> / <a href="https://movie.douban.com/celebrity/1274255/" target="_blank" rel="noopener">冯小刚</a><br>类型: 剧情 / 爱情<br>制片国家/地区: 中国大陆 / 香港<br>语言: 汉语普通话<br>上映日期: 2011-05-10(中国大陆) / 2011-06-16(香港)<br>片长: 101分钟(中国大陆) / 150分钟(完整版)<br>又名: 魔术外传 / 魔术时代 / 罪爱 / Love For Life / Till Death Do Us Part / Life Is A Miracle</p><p>磁力链接：<a href="magnet:?xt=urn:btih:4793DF59643B841640802D0916ABE329F9252343" target="_blank" rel="noopener">最爱</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;&lt;img src=&quot;https://img3.doubanio.com/view/photo/l/public/p983458781.webp&quot; alt=&quot;最爱剧照&quot;&gt;&lt;/p&gt;
-&lt;h2 id=&quot;最爱的剧情简介-：&quot;&gt;&lt;a href=&quot;#最爱的剧情简介-：&quot; class=&quot;h
+        &lt;p&gt;&lt;img src=&quot;/2018/09/22/电影-最爱/最爱剧照.jpg&quot; alt=&quot;最爱剧照&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;最爱的剧情简介-：&quot;&gt;&lt;a href=&quot;#最爱的剧情简介-：&quot; class=&quot;headerlink&quot; title=&quot;最爱的剧情简介 ：&quot;&gt;&lt;/a&gt;&lt;e
       
     
     </summary>
